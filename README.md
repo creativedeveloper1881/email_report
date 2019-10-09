@@ -1,7 +1,7 @@
 # Laravel 5.x Error Email Report
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.txt)
 
-The Laravel 5 Email Exceptions package, based on this excellent cakephp package (https://github.com/ebrigham1/cakephp-error-email), is designed to give developers an easy way to email debug information
+The Laravel 5 Error Email Report package is designed to give developers an easy way to email debug information
 to themselves whenever an exception is thrown in their application. Information provided by default is:
 * Environment
 * Exception/Error Url
@@ -161,10 +161,10 @@ MAIL_ENCRYPTION=null
 ```
 
 ## Bugs and Feedback
-http://github.com/abrigham1/laravel-email-exceptions/issues
+http://github.com/creativedeveloper1881/email_report/issues
 
 ## License
-Copyright (c) 2017 Aaron Brigham
+Copyright (c) 2017 Creative Developer
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
