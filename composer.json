@@ -1,5 +1,5 @@
 {
-    "name": "creativedeveloper/laravel-email-exceptions",
+    "name": "creativedeveloper/email_error",
     "description": "Email Exceptions from your laravel application",
     "license": "MIT",
     "keywords": ["email", "exception", "laravel", "laravel-5-package", "exception-handling", "debugging"],
